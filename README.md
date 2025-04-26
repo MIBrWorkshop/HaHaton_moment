@@ -50,8 +50,8 @@ HaHaton project представляет собой систему, которя
 
   Используемые технологии.
    
-   ThingSpeak
-   Arduino
-   ESP
-   C++
+   1)ThingSpeak
+   2)Arduino
+   3)ESP
+   4)C++
    
