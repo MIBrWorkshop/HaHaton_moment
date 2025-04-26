@@ -65,4 +65,7 @@ HaHaton_project представляет собой систему, которя
    Arduino
    ESP
    C++
-   
+
+   Ссылка на наш канал в ThingSpeak для мониторинга изменений темрепатуры.
+       https://thingspeak.mathworks.com/channels/2935321
+.
